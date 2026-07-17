@@ -1,0 +1,7 @@
+Algoritmo sin_titulo
+	num=5
+	Mientras num>0 Hacer
+		num=num-1
+		escribir num
+	FinMientras
+FinAlgoritmo

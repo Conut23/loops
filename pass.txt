@@ -1,0 +1,14 @@
+Algoritmo sin_titulo
+    tigger=0
+	Mientras tigger==0 Hacer
+		escribir "enter pass"
+		leer pass
+		escribir num
+		si pass ==1234 Entonces
+			escribir "correcto"
+			tigger=1
+		SiNo
+			escribir "incorrecto"
+		FinSi
+	FinMientras
+FinAlgoritmo

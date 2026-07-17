@@ -1,0 +1,8 @@
+Algoritmo sin_titulo
+    tigger=0
+	Repetir
+		Escribir "rango de 0 a 100"
+		leer point
+	Hasta Que point>0 y point<100
+	 Escribir  "finalizado"
+FinAlgoritmo

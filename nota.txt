@@ -1,0 +1,17 @@
+Algoritmo sin_titulo
+	Escribir  "ingrese la nota de 0 a 100"
+	leer nota
+	Si nota > 0 Entonces
+		si nota <100 Entonces
+			si nota >= 51 entonces
+				Escribir "aprobado"
+			SiNo
+				Escribir "reprobado"
+			finsi
+		sino 
+			Escribir "la nota debe ser menor a 100"
+		FinSi
+    SiNo
+        Escribir "debe ser mayor a 0"
+    FinSi
+FinAlgoritmo
